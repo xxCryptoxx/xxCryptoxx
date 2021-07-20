@@ -4,4 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxCryptoxx&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![image title](https://rushter.com/counter.svg)
