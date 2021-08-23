@@ -21,5 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxcryptoxx&show_icons=true&locale=en&layout=compact" alt="xxcryptoxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxcryptoxx&show_icons=true&locale=en" alt="xxcryptoxx" /></p>
+<a href = "https://github.com/devxb/ReadmePlants">
+ <img src = "https://readmeplants.com/get?name=xxCryptoxx&plant=blossomTree&planet=eclipse&background=black"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxcryptoxx&" alt="xxcryptoxx" /></p>
