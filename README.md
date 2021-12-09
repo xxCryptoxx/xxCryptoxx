@@ -18,3 +18,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xxCryptoxx)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://stackoverflow.com/users/7775912/darylvickerman"><img src="https://stackoverflow.com/users/flair/7775912.png" width="208" height="58" alt="profile for darylvickerman at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for darylvickerman at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
