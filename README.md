@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxcryptoxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxcryptoxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxcryptoxx" alt="xxcryptoxx" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darylvickerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darylvickerman" height="30" width="40" /></a>
@@ -15,7 +13,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind css" width="40" height="40"/> </a></a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xxCryptoxx)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://stackoverflow.com/users/7775912/darylvickerman"><img src="https://stackoverflow.com/users/flair/7775912.png" width="208" height="58" alt="profile for darylvickerman at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for darylvickerman at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
